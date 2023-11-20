@@ -1,7 +1,7 @@
 /** Proload 
  * 
  * Loading will be end after document is loaded
-*/
+*/ 
 
 const preloader = document.querySelector("[data-preaload]");
 
