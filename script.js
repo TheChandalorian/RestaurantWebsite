@@ -10,7 +10,7 @@ window.addEventListener("load", function () {
   document.body.classList.add("loaded");
 });
 
-
+ 
 /**  
  * Add event liostener on multiple events
 */
